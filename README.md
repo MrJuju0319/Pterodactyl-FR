@@ -1,0 +1,2 @@
+# Pterodactyl-FR
+Traduction Pterodactyl
